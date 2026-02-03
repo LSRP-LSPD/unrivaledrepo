@@ -1,0 +1,196 @@
+<div style="max-width:1090px;margin:0 auto;font-family:Arial, sans-serif;color:#0a1d35;line-height:1.35;">
+
+  <!-- TOP BRAND ROW -->
+  <div style="display:table;width:100%;border-collapse:collapse;margin-bottom:18px;">
+    <div style="display:table-row;">
+      <div style="display:table-cell;vertical-align:top;padding:10px 0;">
+        <div style="font-weight:900;letter-spacing:0.22em;text-transform:uppercase;font-size:34px;line-height:1;">
+          <span style="display:inline-block;">UNR</span><span style="display:inline-block;margin-left:6px;">IVAL</span><span style="display:inline-block;margin-left:6px;">ED</span>
+        </div>
+        <div style="margin-top:6px;font-weight:700;letter-spacing:0.18em;text-transform:uppercase;font-size:12px;color:#2a3b52;">
+          SINCE 1869
+        </div>
+      </div>
+
+      <div style="display:table-cell;vertical-align:top;text-align:right;padding:10px 0;">
+        <!-- Replace with your top-right mark or leave empty -->
+        <img src="{TOP_RIGHT_IMAGE_URL}" alt="" style="max-width:240px;height:auto;border:0;display:inline-block;">
+      </div>
+    </div>
+  </div>
+
+  <!-- HERO LOGO -->
+  <div style="text-align:center;margin:10px 0 22px 0;">
+    <img src="{MAIN_LOGO_URL}" alt="" style="max-width:520px;width:100%;height:auto;border:0;display:inline-block;">
+  </div>
+
+  <!-- SECTION: INSPIRATION -->
+  <div style="border-top:1px solid rgba(15,35,64,0.18);padding-top:18px;margin-top:8px;">
+    <div style="font-weight:900;letter-spacing:0.22em;text-transform:uppercase;font-size:18px;margin-bottom:10px;">
+      INSPIRATION
+    </div>
+    <div style="font-size:14px;color:#0f2236;">
+      The Los Santos Police Department is based on and inspired by the Los Angeles Police Department. Founded in 1869 it isn’t just one of the oldest Law Enforcement Agencies in the United States it also claims to be unrivaled ever since. Over the years the department has grown into the largest municipal force in the state of California and we aim to replicate this. Organized into Bureaus the department is committed under its motto “To protect and to serve”
+    </div>
+  </div>
+
+  <!-- SECTION: STRUCTURE -->
+  <div style="border-top:1px solid rgba(15,35,64,0.18);padding-top:18px;margin-top:18px;">
+    <div style="font-weight:900;letter-spacing:0.22em;text-transform:uppercase;font-size:18px;margin-bottom:10px;">
+      STRUCTURE
+    </div>
+
+    <div style="font-size:14px;color:#0f2236;">
+      The department is organized under Bureaus. These cover all aspects, requirements and services needed to to function as a municipal police force for a city the size of Los Santos requires:
+    </div>
+
+    <ul style="margin:10px 0 10px 18px;padding:0;font-size:14px;color:#0f2236;">
+      <li style="margin:4px 0;">Administrative Services Bureau</li>
+      <li style="margin:4px 0;">Counter-Terrorism and Special Operations Bureau</li>
+      <li style="margin:4px 0;">Detective Bureau</li>
+      <li style="margin:4px 0;">Operations-West Bureau</li>
+      <li style="margin:4px 0;">Professional Standards Bureau</li>
+    </ul>
+
+    <div style="font-size:14px;color:#0f2236;">
+      The department is administered and lead by Bureau Chiefs and overseen by the Chief of Police (Staff Officers)
+    </div>
+  </div>
+
+  <!-- SECTION: COUNTER-TERRORISM -->
+  <div style="border-top:1px solid rgba(15,35,64,0.18);padding-top:18px;margin-top:18px;">
+    <div style="font-weight:900;letter-spacing:0.22em;text-transform:uppercase;font-size:18px;margin-bottom:10px;">
+      COUNTER-TERRORISM
+    </div>
+    <div style="font-size:14px;color:#0f2236;">
+      The Counter-Terrorism and Special Operations Bureau (CTSOB) is tasked with preventing terrorism by effectively sharing information aimed at disrupting terrorist's operational capability and addressing the underlying causes associated with the motivational component; to Protect the public and critical infrastructure by leveraging private sector resources and hardening targets; to Pursue terrorists and those criminal enterprises that support them; and, to Prepare the citizenry and the city government for consequences associated with terrorist operations against the city. The Bureau is comprised of Metropolitan Divison and Air Support Division.
+      <br><br>
+      <b>Metropolitan Division</b>
+      <br><br>
+      The Metropolitan Division (Metro) of the Los Santos Police Department (LSPD) was created in 1933 as a compact, mobile crime-fighting unit that worked throughout the City to suppress criminal activity. Today, the primary responsibility of Metro is to provide support to the Department's community-based policing efforts by deploying additional crime suppression resources throughout the City. Assignments include uniformed crime suppression details, as well as responding to high-risk barricaded situations, stakeouts, security details, warrant service, and assisting investigators in solving major crimes.
+      <br><br>
+      <b>Air Support Division</b>
+      <br><br>
+      The Air Support Division (ASD) is tasked with providing Air Support to patrol and specialized units of the Department, to enhances officer and public safety, reduces the incidence of crime and thus reduces the fear of crime. To accomplish this mission ASD provides rapid response, tactical insight and airborne assessments of incidents, in a safe and professional manner.
+    </div>
+  </div>
+
+  <!-- SECTION: DETECTIVE BUREAU -->
+  <div style="border-top:1px solid rgba(15,35,64,0.18);padding-top:18px;margin-top:18px;">
+    <div style="font-weight:900;letter-spacing:0.22em;text-transform:uppercase;font-size:18px;margin-bottom:10px;">
+      DETECTIVE BUREAU
+    </div>
+    <div style="font-size:14px;color:#0f2236;">
+      The Detective Bureau (DB) provides functional leadership for detective operations Citywide. The Chief of Detectives is responsible for managing, supervising, and coordinating the operations of the Detective Bureau. The Assistant Commanding Officer assists the Chief of Detectives in coordinating the bureau's activities and will act as the Commanding Officer during the Chief's absence.
+      <br><br>
+      <b>Gang and Narcotics Division</b>
+      <br><br>
+      Gang and Narcotics Division (GND) is responsible for disrupting violent street gangs and the means by which they support their lifestyle, including the manufacture, transportation, sale and use of illicit drugs, and sales of firearms in the greater Los Santos area. GND's enforcement efforts also focus on street-level enforcement strategies to effect a reduction in crime.
+      <br><br>
+      <b>Major Crimes Division</b>
+      <br><br>
+      Major Crimes Division (MCD) is responsible for investigating missing persons, hate crimes, threats made to public officials/prominent persons, aggravated stalking, piracy and counterfeit sales/goods, animal cruelty, pimping/pandering, pornography, and prostitution/human trafficking.
+      <br><br>
+      <b>Forensic Science Division</b>
+      <br><br>
+      The Forensic Science Division (FSD) is responsible for the forensic science that is a critical element of the criminal justice system. Forensic scientists examine and analyze evidence from crime scenes and elsewhere to develop objective findings that can assist in the investigation and prosecution of perpetrators of crime or absolve an innocent person from suspicion.
+      <br><br>
+      <b>Detective School</b>
+      <br><br>
+      The Los Santos Police Department's Detective School equips its candidates with essential knowledge, enabling them to proficiently execute the responsibilities of an investigator upon successful graduation from the program.
+    </div>
+  </div>
+
+  <!-- ROLE CARDS (FRAME-1) -->
+  <div style="border-top:1px solid rgba(15,35,64,0.18);padding-top:18px;margin-top:18px;">
+    <div style="display:table;width:100%;border-collapse:separate;border-spacing:12px;">
+      <div style="display:table-row;">
+        <div style="display:table-cell;vertical-align:top;width:50%;background:rgba(15,35,64,0.05);border:1px solid rgba(15,35,64,0.14);padding:14px;">
+          <div style="font-weight:900;letter-spacing:0.18em;text-transform:uppercase;font-size:13px;margin-bottom:8px;">STAFF OFFICERS</div>
+          <div style="font-size:13px;color:#0f2236;">make up the general management and leadership of the Los Santos Police Department. They are experienced leaders who have direct responsibility for specialized areas of the department. Staff Officers consist of the Chief of Police, two Assistant Chiefs and Deputy Chiefs</div>
+        </div>
+        <div style="display:table-cell;vertical-align:top;width:50%;background:rgba(15,35,64,0.05);border:1px solid rgba(15,35,64,0.14);padding:14px;">
+          <div style="font-weight:900;letter-spacing:0.18em;text-transform:uppercase;font-size:13px;margin-bottom:8px;">POLICE DETECTIVES</div>
+          <div style="font-size:13px;color:#0f2236;">are assigned as specialized investigators throughout the department's Detective Bureau and are managed by the Chief of Detectives. Detectives review incident reports and conduct investigations through case packages and crime reports. They operate Intelligence-based and result-driven.</div>
+        </div>
+      </div>
+
+      <div style="display:table-row;">
+        <div style="display:table-cell;vertical-align:top;width:50%;background:rgba(15,35,64,0.05);border:1px solid rgba(15,35,64,0.14);padding:14px;">
+          <div style="font-weight:900;letter-spacing:0.18em;text-transform:uppercase;font-size:13px;margin-bottom:8px;">POLICE OFFICERS</div>
+          <div style="font-size:13px;color:#0f2236;">Police Officers are considered the department's boots on the ground. They make up uniformed operations city-wide and are for conducting patrols, responding to 911 calls, taking civilian reports, and other field activities. This category of department employees are considered the largest and fulfill the basic, yet most important functionality.</div>
+        </div>
+        <div style="display:table-cell;vertical-align:top;width:50%;background:rgba(15,35,64,0.05);border:1px solid rgba(15,35,64,0.14);padding:14px;">
+          <div style="font-weight:900;letter-spacing:0.18em;text-transform:uppercase;font-size:13px;margin-bottom:8px;">COMMAND OFFICERS</div>
+          <div style="font-size:13px;color:#0f2236;">The backbone of the Department. They have responsibility of directing activities related to programs &amp; divisions that function under a Bureau and will commonly report to the Bureau Deputy Chief. Command Officers consist of Police Commanders, Captain IIIs, Captain IIs and Captain Is:</div>
+        </div>
+      </div>
+
+      <div style="display:table-row;">
+        <div style="display:table-cell;vertical-align:top;width:50%;background:rgba(15,35,64,0.05);border:1px solid rgba(15,35,64,0.14);padding:14px;">
+          <div style="font-weight:900;letter-spacing:0.18em;text-transform:uppercase;font-size:13px;margin-bottom:8px;">POLICE SUPERVISORS</div>
+          <div style="font-size:13px;color:#0f2236;">are primarily responsible for the supervision of department personnel, Supervisors are plotted around the department in different assignments. They are considered the middle management of the Los Santos Police Department and are considered the first layer of management of police resources, staff and deployment initiatives.</div>
+        </div>
+        <div style="display:table-cell;vertical-align:top;width:50%;padding:14px;"></div>
+      </div>
+    </div>
+  </div>
+
+  <!-- SECTION: PROFESSIONAL STANDARDS + ADMIN SERVICES CONTENT -->
+  <div style="border-top:1px solid rgba(15,35,64,0.18);padding-top:18px;margin-top:18px;">
+    <div style="font-weight:900;letter-spacing:0.22em;text-transform:uppercase;font-size:18px;margin-bottom:10px;">
+      PROFESSIONAL STANDARDS
+    </div>
+
+    <div style="font-size:14px;color:#0f2236;">
+      The Administrative Services Bureau (ASB) is responsible for overseeing the Department's records management, recruitment and employment, and in-service training. The Bureau oversees sworn and civilian employees in a wide variety of administrative and support functions in the Department.
+      <br><br>
+      <b>Recruitment and Employment Division</b>
+      <br><br>
+      The Recruitment and Employment Division (RED) is responsible for the following functions: Recruit potential candidates and provide guidance; respond to inquiries from candidates that are received by telephone, e-mail or correspondence; mentor candidates as they progress through the selection process and conduct oral interviews.
+      <br><br>
+      <b>Training Division</b>
+      <br><br>
+      The mission of the Los Santos Police Department’s (LSPD) Training Division is to provide state-of-the-art, meaningful, realistic, and relevant training to in-service and recruit officers in order to prepare them for field duty.
+      <br><br>
+      <b>Communications Division</b>
+      <br><br>
+      Communications Division (CD) serves as a support entity for the entire Los Santos Police Department. Communications Division's Valley and Metropolitan Dispatch Centers are the Public Safety Answering Point (PSAP) for the City of Los Santos. As the PSAP, Communications Division has the responsibility to staff and answer, on a 24-hour basis, the telephones upon which calls for service are received.
+      <br><br>
+      <b>Basic Supervisor School</b>
+      <br><br>
+      The Los Santos Police Department's Basic Supervisor School provides POST training curriculum to its candidates and allows employees to perform the duties of a field supervisor following successful graduation from the School.
+      <br><br>
+      <b>Field Training Program</b>
+      <br><br>
+      The Los Santos Police Department's Field Training Program (FTP) consists of observation and instruction and is intended to facilitate a probationary officer's transition from the academic setting to the performance of general law enforcement uniformed patrol duties.
+      <br><br>
+      <b>Urban Police Rifle (UPR) School</b>
+      <br><br>
+      The Los Santos Police Department's Urban Police Rifle (UPR) School provides the knowledge and skills necessary to safely deploy a .556 caliber tactical rifle both in tactical and patrol applications. The UPR School functions as a part of the Training Division.
+    </div>
+  </div>
+
+  <!-- FOOTER CTA -->
+  <div style="margin-top:22px;padding:18px;border-top:1px solid rgba(15,35,64,0.18);background:rgba(15,35,64,0.04);text-align:center;">
+    <div style="font-weight:900;letter-spacing:0.22em;text-transform:uppercase;font-size:18px;margin-bottom:8px;">
+      READY TO MAKE THE MOVE?
+    </div>
+    <div style="font-size:14px;color:#0f2236;margin-bottom:14px;">
+      Start your application today to take the first step towards your future.
+    </div>
+
+    <div style="display:inline-block;margin:6px;">
+      <a href="{APPLICATION_URL}" style="display:inline-block;padding:10px 16px;border:1px solid rgba(15,35,64,0.25);background:#ffffff;color:#0a1d35;text-decoration:none;font-weight:800;letter-spacing:0.14em;text-transform:uppercase;font-size:12px;">
+        TAKE YOUR FIRST STEP
+      </a>
+    </div>
+
+    <div style="display:inline-block;margin:6px;">
+      <a href="{CONTACT_URL}" style="display:inline-block;padding:10px 16px;border:1px solid rgba(15,35,64,0.25);background:#ffffff;color:#0a1d35;text-decoration:none;font-weight:800;letter-spacing:0.14em;text-transform:uppercase;font-size:12px;">
+        ANSWER THE CALL
+      </a>
+    </div>
+  </div>
+
+</div>
